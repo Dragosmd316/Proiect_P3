@@ -1,0 +1,54 @@
+[
+  {
+    "event": {
+      "name": "e8",
+      "description": "somthing_8",
+      "date": "12.05.2026",
+      "status": "activ"
+    },
+    "categories": [
+      {
+        "label": "sit"
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "e1",
+      "description": "somthing_1",
+      "date": "12.05.2008",
+      "status": "inactiv"
+    },
+    "categories": [
+      {
+        "label": "run joy fun"
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "e2",
+      "description": "somthing_2",
+      "date": "12.03.2026",
+      "status": "activ"
+    },
+    "categories": [
+      {
+        "label": "long"
+      }
+    ]
+  },
+  {
+    "event": {
+      "name": "a1",
+      "description": "somthing_a1",
+      "date": "12.02.2002",
+      "status": "inactiv"
+    },
+    "categories": [
+      {
+        "label": "shure"
+      }
+    ]
+  }
+]
